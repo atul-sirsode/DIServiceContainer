@@ -1,0 +1,12 @@
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Debug\net7.0\DIServiceContainer.deps.json
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Debug\net7.0\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Debug\net7.0\DIServiceContainer.pdb
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.csproj.AssemblyReference.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\refint\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\DIServiceContainer.pdb
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Debug\net7.0\ref\DIServiceContainer.dll

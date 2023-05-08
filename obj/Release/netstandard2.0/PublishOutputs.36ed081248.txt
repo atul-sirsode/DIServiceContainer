@@ -1,0 +1,8 @@
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\DIServiceContainer.deps.json
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\DIServiceContainer.pdb
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\netstandard2.0\publish\System.Threading.Tasks.Extensions.dll

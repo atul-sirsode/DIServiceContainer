@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DIServiceContainer</id>
+    <version>1.0.0</version>
+    <title>DIContainer</title>
+    <authors>DIServiceContainer</authors>
+    <license type="file">LICENSE.md</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <readme>README.md</readme>
+    <projectUrl>https://github.com/atul-sirsode/DIServiceContainer</projectUrl>
+    <description>Package is to register service is DI, specified follow by its lifetimeScope</description>
+    <repository url="https://github.com/atul-sirsode/DIServiceContainer" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\WORK\VSPROJECTS\GitHub\DIServiceContainer\bin\Debug\net6.0\DIServiceContainer.dll" target="lib\net6.0\DIServiceContainer.dll" />
+    <file src="C:\WORK\VSPROJECTS\GitHub\DIServiceContainer\bin\Debug\netstandard2.0\DIServiceContainer.dll" target="lib\netstandard2.0\DIServiceContainer.dll" />
+    <file src="C:\WORK\VSPROJECTS\GitHub\DIServiceContainer\LICENSE.md" target="\LICENSE.md" />
+    <file src="C:\WORK\VSPROJECTS\GitHub\DIServiceContainer\README.md" target="\README.md" />
+  </files>
+</package>

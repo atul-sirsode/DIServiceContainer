@@ -1,0 +1,12 @@
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\net6.0\win-x64\DIServiceContainer.deps.json
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\net6.0\win-x64\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\bin\Release\net6.0\win-x64\DIServiceContainer.pdb
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.csproj.AssemblyReference.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.AssemblyInfoInputs.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.AssemblyInfo.cs
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.csproj.CoreCompileInputs.cache
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\refint\DIServiceContainer.dll
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\DIServiceContainer.pdb
+C:\WORK\VSPROJECTS\DIServiceContainer\obj\Release\net6.0\win-x64\ref\DIServiceContainer.dll
